@@ -1,0 +1,33 @@
+#logo {
+	width: 20%;
+	display: block;
+	margin: 15px auto;
+}
+#searchbar {
+	width: 40%;
+	display: block;
+	margin: 15px auto;
+}
+#searchbutton {
+	background-color: #f3f3f3;
+	border: none;
+	border-radius: 4px;
+	display: block;
+	margin: 15px auto;
+}
+#searchb {
+	margin: 6px!important;
+	color: #848484;
+	font-weight: bold;
+}
+#photo-container {
+	width: 90%;
+	margin: 0px auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between; 
+}
+.resultImage {
+	height: 150px;
+	margin: 15px;
+}
